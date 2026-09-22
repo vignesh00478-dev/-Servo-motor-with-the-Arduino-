@@ -23,14 +23,14 @@ A simple servo motor control system using an **Arduino Uno**. The servo motor is
 7. Upload the servo control program to the Arduino.  
 8. The servo rotates to **0°**, then **180°**, and returns to **0°** with a short delay.  
 9. Observe the automatic movement of the servo motor.
+### **SIMULATION**
 
-![][image1]
+![](simulation.jpg)
 
-### 
 
 ### **RESULT**
 
-![][image2]
+![](result..jpg)
 
 ### **Notes**
 
